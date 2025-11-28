@@ -22,6 +22,7 @@ const botResponses = {
   "thank you": "You’re welcome!",
   "i love you": "That’s sweet! I’m here to help you anytime.",
   "where are you from": "I live in the cloud — no rent, no bills!",
+  "who is Bhushan Ahire" : "Bhushan Ahire is a MERN Stack Web Developer, he is a Student of Bachelor of Engineering.",
   "what can you do": "I can chat with you, answer questions, and keep you company.",
 
  "what is python": "Python is a high-level, interpreted programming language known for simplicity and versatility.\n• Easy to read/write due to clean syntax (similar to English)\n• Dynamically typed and supports multiple paradigms (OOP, functional, procedural)\n• Extensive libraries for AI, data science, web, automation\n• Example: Used in Google, YouTube, Instagram, and machine learning applications",
